@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  font-family:'Segoe UI',sans-serif;
+  background:black;
+}
+.project-card ul{
+  margin:15px 0 15px 20px;
+  color:#d1d5db;
+}
+
+.project-card li{
+  margin-bottom:8px;
+}
+
+.project-card{
+  transition:0.3s ease;
+}
+
+.project-card:hover{
+  transform:translateY(-8px);
+  box-shadow:0 10px 30px rgba(59,130,246,0.25);
+}
