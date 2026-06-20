@@ -34,7 +34,8 @@ Full-stack food delivery application developed using Java, JSP, Servlets, JDBC, 
 
  Live Demo
 
-Portfolio Link: Add after deployment
+Portfolio Link: https://portfolio-git-main-geethanelakurthi7-gmailcoms-projects.vercel.app/
+
 
 Author
 
